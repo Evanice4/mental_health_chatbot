@@ -1,4 +1,4 @@
-#  Mindful — Bilingual Mental Health Support Chatbot
+#  Mindful - Bilingual Mental Health Support Chatbot
 
 A domain-specific AI chatbot for mental health support, supporting both **English and Arabic** users. Built using TF-IDF retrieval and fine-tuned DistilGPT2.
 
@@ -6,10 +6,10 @@ A domain-specific AI chatbot for mental health support, supporting both **Englis
  [https://huggingface.co/spaces/Evanice4/mindful-chatbot](https://huggingface.co/spaces/Evanice4/mindful-chatbot)
 
 ##  Features
--  Bilingual support — auto-detects English and Arabic
+-  Bilingual support - auto-detects English and Arabic
 -  TF-IDF + Cosine Similarity retrieval engine (15,000 features, bigrams)
 -  Fine-tuned DistilGPT2 LLM on mental health conversations
--  Intent classification — Linear SVM (95.51% accuracy)
+-  Intent classification - Linear SVM (95.51% accuracy)
 -  Crisis detection with emergency helpline resources
 -  Gradio UI deployed on Hugging Face Spaces
 
