@@ -54,7 +54,7 @@ plotly
 | Linear SVM | Intent Accuracy | 95.51% |
 | Logistic Regression | Intent Accuracy | 85.83% |
 | Naive Bayes | Intent Accuracy | 70.05% |
-| DistilGPT2 (fine-tuned) | Perplexity | Lower than base  |
+| DistilGPT2 (fine-tuned) | Perplexity | Lower than base (9.82)  |
 
 ## Author
 Nice Eva Karabaranga | ALU | February 2026
